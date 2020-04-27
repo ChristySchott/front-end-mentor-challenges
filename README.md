@@ -1,4 +1,6 @@
-# Frontend-Mentor-Challenges
+<h1 align="center">
+ :computer: Frontend Mentor Challenges :computer:
+</h1>
 
 ### Difficulty: JUNIOR :hugs:
 
